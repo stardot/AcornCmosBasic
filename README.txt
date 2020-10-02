@@ -87,5 +87,8 @@ http://beebwiki.mdfs.net/DIM_Basic432
 If you comment this line out, then the generated binary matches Basic
 4. So this effectively is the source to Basic 4.
 
+Acknowledgements:
+=================
 
-
+Many thanks to Paul Fellows (ex Acornsoft) for discovering these
+long-lost sources and making them available to the Acorn community.
