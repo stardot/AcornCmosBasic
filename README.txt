@@ -21,8 +21,8 @@ The structure of the repository is as follows:
 
     tools/    - binaries for MASM (both DFS and non-DFS versions)
 
-Assembling the OS Source Code
-=============================
+Assembling the Basic Source Code
+================================
 
 An "ordinary" 6502 Co Processor is needed to assemble the Cmos Basic
 sources.
